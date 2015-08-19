@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بازی Tetris</string>
+    <string name="pause_menu_title">توقف</string>
+    <string name="resume_menu_title">ادامه</string>
+    <string name="game_over_dialog_message">باختید!</string>
+    <string name="ok_button_label">باشه</string>
+    <string name="cancel_button_label">کنسل</string>
+    <string name="score_dialog_title">بیشترین امتیازات</string>
+    <string name="name_edit_title">نام</string>
+    <string name="name_entry_dialog_title">نام خود را وارد کنید</string>
+    <string name="help_dialog_title">کمک</string>
+    <string name="TextRank">رتبه</string>
+    <string name="TextName">نام</string>
+    <string name="TextScore">اامتیاز</string>
+    <string name="TextDate">تاریخ</string>
+    <string name="ErrorReadScoreMSG">"error reading score file: "</string>
+    <string name="ErrorWriteScoreMSG">"error writing score file: "</string>
+    <string name="NewGame">بازی جدید</string>
+    <string name="Scores">امتیارات</string>
+    <string name="Quite">خروج</string>
+    <string name="Help">کمک</string>
+    <string name="Options">تنظیمات</string>
+    <string name="ShowPreview">پیش نمایش</string>
+    <string name="ShowGrid">نمایش گرید</string>
+    <string name="ClearHighScores">پاک کردن بیشترین امتیازات</string>
+</resources>
